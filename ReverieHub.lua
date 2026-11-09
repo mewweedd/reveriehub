@@ -4,7 +4,7 @@
     Loader — no key system, free/open load.
 ]]
 
-local Directory = "https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/Games" -- FILL: point at your own repo once Games/ is rehosted
+local Directory = "https://raw.githubusercontent.com/mewweedd/reveriehub/main/Games"-- FILL: point at your own repo once Games/ is rehosted
 local Scripts = {
 	[994732206] = Directory .. "/BloxFruits.lua",
 	[9186719164] = Directory .. "/SailorPiece.lua",
